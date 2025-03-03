@@ -1,9 +1,18 @@
-## Welcome to huha space!
+# Welcome to huha space!💫
 
-<!--
-**huhakor/huhakor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🐸About Me
+- Hi, I'm Bomin, a data enthusiast who eager to explore the power of data in solving real-world challenges. I specialize in web scraping & crawling, sentiment analysis, and NLP-driven insights, constantly refining my skills through hands-on projects, research and statistical analysis.
+  
+## 📚Academic Background
+- Economics(Major)
+- Industrial and Systems Engineering(Double Major)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=huhakor)
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huhakor&layout=compact)
+## 🛠Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhuhakor&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## 📞Contact - [bomin9988@gmail.com](mailto:bomin9988@gmail.com)
