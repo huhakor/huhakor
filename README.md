@@ -1,12 +1,12 @@
 # Welcome to huha space!💫
 
-## 🐸About Me
+## 🐸 About Me
 - Hi, I'm Bomin, a data enthusiast who eager to explore the power of data in solving real-world challenges. I specialize in web scraping & crawling, sentiment analysis, and NLP-driven insights, constantly refining my skills through hands-on projects, research and statistical analysis.
 - 📞Contact: [bomin9988@gmail.com](mailto:bomin9988@gmail.com)
-## 📚Academic Background
+  
+## 📚 Academic Background
 - Economics(Major)
 - Industrial and Systems Engineering(Double Major)
-
 
 ## 🛠 Tech Stack
 <p align="center">
@@ -18,8 +18,7 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" height="20"/>
 </p>
 
-
-## 📊Statistics
+## 📊 Statistics
 <div>
   <!-- GitHub Stats -->
   <img 
