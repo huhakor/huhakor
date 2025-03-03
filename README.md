@@ -25,7 +25,7 @@
   <img 
     alt="GitHub Stats" 
     align="left" 
-    src="https://github-readme-stats.vercel.app/api?username=huhakor&show_icons=true&theme=react" 
+    src="https://github-readme-stats.vercel.app/api?username=huhakor&show_icons=true&theme=default" 
     width="37%" 
   />
   
