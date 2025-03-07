@@ -9,10 +9,10 @@
 - Industrial and Systems Engineering(Double Major)
 
 ## 🛠 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="20"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="20"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="20"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="30"/>
 </p>
 
 ## 📊 Statistics
@@ -22,13 +22,13 @@
     alt="GitHub Stats" 
     align="left" 
     src="https://github-readme-stats.vercel.app/api?username=huhakor&show_icons=true&theme=default" 
-    width="37%" 
+    width="45%" 
   />
   
   <!-- Top Languages -->
   <img 
     alt="Top Languages" 
-    height="140" 
+    height="125"
     align="left" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=huhakor&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=1E90FF&text_color=000000&icon_color=1E90FF&bg_color=ffffff&langs_count=4&layout=compact&border_color=ffffff&hide_border=true" 
   />
