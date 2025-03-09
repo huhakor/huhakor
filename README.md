@@ -8,12 +8,6 @@
 - Economics(Major)
 - Industrial and Systems Engineering(Double Major)
 
-## 🛠 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="25"/>
-</p>
 
 ## 📊 Statistics
 <div>
