@@ -1,7 +1,7 @@
 # Welcome to huha space!💫
 - ![profile_view_counter](https://komarev.com/ghpvc/?username=huhakor)
 ![profile_view_counter](https://komarev.com/ghpvc/?username=huhakor)
-<div align="center">
+<div align="left">
 
   ![profile_view_counter](https://komarev.com/ghpvc/?username=huhakor)
 </div>
