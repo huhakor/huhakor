@@ -3,7 +3,7 @@
 ## 🐸 About Me
 - Hi, I'm Bomin, a data enthusiast who eager to explore the power of data in solving real-world challenges. I specialize in web scraping & crawling, sentiment analysis, and NLP-driven insights, constantly refining my skills through hands-on projects, research and statistical analysis.
 - 📞Contact: [bomin9988@gmail.com](mailto:bomin9988@gmail.com)
-![profile_view_counter](https://komarev.com/ghpvc/?username=huhakor) 
+- ![profile_view_counter](https://komarev.com/ghpvc/?username=huhakor) 
 ## 📚 Academic Background
 - Economics(Major)
 - Industrial and Systems Engineering(Double Major)
