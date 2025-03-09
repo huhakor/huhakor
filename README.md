@@ -1,9 +1,14 @@
 # Welcome to huha space!💫
+- ![profile_view_counter](https://komarev.com/ghpvc/?username=huhakor)
+![profile_view_counter](https://komarev.com/ghpvc/?username=huhakor)
+<div align="center">
 
+  ![profile_view_counter](https://komarev.com/ghpvc/?username=huhakor)
+</div>
 ## 🐸 About Me
 - Hi, I'm Bomin, a data enthusiast who eager to explore the power of data in solving real-world challenges. I specialize in web scraping & crawling, sentiment analysis, and NLP-driven insights, constantly refining my skills through hands-on projects, research and statistical analysis.
 - 📞Contact: [bomin9988@gmail.com](mailto:bomin9988@gmail.com)
-- ![profile_view_counter](https://komarev.com/ghpvc/?username=huhakor) 
+
 ## 📚 Academic Background
 - Economics(Major)
 - Industrial and Systems Engineering(Double Major)
@@ -26,12 +31,6 @@
     align="left" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=huhakor&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=1E90FF&text_color=000000&icon_color=1E90FF&bg_color=ffffff&langs_count=4&layout=compact&border_color=ffffff&hide_border=true" 
   />
-</div>
-
-
-<div align="center">
-
-  ![profile_view_counter](https://komarev.com/ghpvc/?username=huhakor)
 </div>
 
 
