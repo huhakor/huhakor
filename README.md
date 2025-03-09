@@ -28,4 +28,11 @@
   />
 </div>
 
-![profile_view_counter](https://komarev.com/ghpvc/?username=huhakor&style=flat&color=blue)
+
+<div align="center">
+
+  ![profile_view_counter](https://komarev.com/ghpvc/?username=huhakor)
+</div>
+
+![profile_view_counter](https://komarev.com/ghpvc/?username=huhakor)
+</div>
