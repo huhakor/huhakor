@@ -27,3 +27,8 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=huhakor&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=1E90FF&text_color=000000&icon_color=1E90FF&bg_color=ffffff&langs_count=4&layout=compact&border_color=ffffff&hide_border=true" 
   />
 </div>
+
+<div>
+  <!-- Visitors -->
+  ![profile_view_counter](https://komarev.com/ghpvc/?username=huhakor&style=flat&color=blue)
+</div>
