@@ -1,10 +1,5 @@
 # Welcome to huha space!💫
 
-<div align="left">
-  
-  ![profile_view_counter](https://komarev.com/ghpvc/?username=huhakor)
-</div>
-
 ## 🐸 About Me
 - Hi, I'm Bomin, a data enthusiast who eager to explore the power of data in solving real-world challenges. I specialize in web scraping & crawling, sentiment analysis, and NLP-driven insights, constantly refining my skills through hands-on projects, research and statistical analysis.
 - 📞Contact: [bomin9988@gmail.com](mailto:bomin9988@gmail.com)
